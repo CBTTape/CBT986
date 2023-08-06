@@ -1,0 +1,14 @@
+2023-08-06 08:52:53.855240 - Initialized conversion of CBT986
+2023-08-06 08:52:53.933181 - Received CBT.V505.FILE986.PDS from FILE986.XMI 
+2023-08-06 08:52:53.935558 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:52:53.936568 - Found $$README.txt (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/$$README
+2023-08-06 08:52:53.937521 - Found $LA.txt (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/$LA
+2023-08-06 08:52:53.938404 - Found #MODULE.txt (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/#MODULE
+2023-08-06 08:52:53.939315 - Found @FILE986.txt (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/@FILE986
+2023-08-06 08:52:53.940228 - Found RXINSTRM.txt (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/RXINSTRM
+2023-08-06 08:52:53.941049 - Found RXINSTRX.rexx (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/RXINSTRX
+2023-08-06 08:52:53.941969 - Found TSOPARM.txt (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/TSOPARM
+2023-08-06 08:52:53.942771 - Found TSOPUTL$.jcl (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/TSOPUTL$
+2023-08-06 08:52:53.943540 - Found TSOPUTL#.jcl (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/TSOPUTL#
+2023-08-06 08:52:53.944447 - Found TSOPUTL@.txt (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/TSOPUTL@
+2023-08-06 08:52:53.945272 - Found TSOPUTLN.txt (text/plain) in CBT.V505.FILE986.PDS, moved to PDS/TSOPUTLN
